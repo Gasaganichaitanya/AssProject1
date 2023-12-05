@@ -1,0 +1,7 @@
+D:\mphasis\Assesmentprojects\Project1\Assesmentproject1\Assesmentproject1\bin\Debug\Assesmentproject1.exe.config
+D:\mphasis\Assesmentprojects\Project1\Assesmentproject1\Assesmentproject1\bin\Debug\Assesmentproject1.exe
+D:\mphasis\Assesmentprojects\Project1\Assesmentproject1\Assesmentproject1\bin\Debug\Assesmentproject1.pdb
+D:\mphasis\Assesmentprojects\Project1\Assesmentproject1\Assesmentproject1\obj\Debug\Assesmentproject1.csproj.AssemblyReference.cache
+D:\mphasis\Assesmentprojects\Project1\Assesmentproject1\Assesmentproject1\obj\Debug\Assesmentproject1.csproj.CoreCompileInputs.cache
+D:\mphasis\Assesmentprojects\Project1\Assesmentproject1\Assesmentproject1\obj\Debug\Assesmentproject1.exe
+D:\mphasis\Assesmentprojects\Project1\Assesmentproject1\Assesmentproject1\obj\Debug\Assesmentproject1.pdb
